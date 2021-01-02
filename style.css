@@ -1,0 +1,46 @@
+
+    .sidebar {
+        background-color:rgb(246, 235, 253);
+        height:100%;
+        position:fixed;
+        width:200px;
+        top:0;
+        left:0;
+        overflow: hidden;
+        padding-top:20px;
+    }
+    .sidebar .menu{
+        padding:15px 8px 15px 15px;
+        font-size: 25px;
+        display: block;
+        color:#777777;
+        text-decoration: none;
+    }
+    .sidebar .heading {
+        display: block;
+        color: black;
+        font-size: 32px;
+        padding:15px 8px 15px 15px;
+        background-color: rgb(166, 75, 241);
+        text-decoration: none;
+    }
+    .active, .sidebar .menu:hover{
+        background-color: rgb(220, 185, 240);
+        color:rgb(48, 48, 48)
+    }
+    .main {
+        margin-left: 200px; 
+        padding: 0px 10px;
+    }
+    .body{
+        background-color: rgb(0, 0, 0);
+        font-family: andale mono,monospace;}
+    .footer {
+        bottom:0;
+        left:0;
+        padding-bottom: 15px;
+        height:30px;
+        width:200px;
+        background-color: white;
+        overflow:hidden;
+    }
