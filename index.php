@@ -1,12 +1,12 @@
 <!DOCTYPE html>
+<html>
 <head>
-    
     <link href='./style.css' rel='stylesheet'>
+    <!--<script scr='active_menu.js'></script>-->
     <title>home</title>
 </head>
-<body class='body'>
+<body>
+<?php include 'sidebar.php'?>
 
-    <?php include 'sidebar.php';?>
-
-    <script scr='active_menu'></script>
 </body>
+</html>
