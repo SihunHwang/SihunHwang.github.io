@@ -90,11 +90,17 @@ nav {
     color:rgb(49, 18, 90);
 
 }
+
 .footer {
     font-size: 30px;
     padding:16px;
     display: block;
     color:black;
     text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+  font-size:50px;
 }
 
