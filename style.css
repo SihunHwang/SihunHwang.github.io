@@ -87,7 +87,7 @@ nav {
   text-align: center;
   padding-bottom:8px;
   color:rgb(49, 18, 90);
-  font-weight: 900;
+  font-weight: 700;
 }
 
 .footer {
@@ -99,10 +99,16 @@ nav {
 }
 
 h1 {
-  font-weight: bold;
+  font-weight: 700;
   font-size:50px;
 }
-
+h2{
+  font-weight:500;
+}
 ul{
   font-size:20px;
+}
+
+h3{
+  font-weight:200;
 }
