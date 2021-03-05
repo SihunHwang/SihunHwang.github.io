@@ -25,7 +25,6 @@ nav {
     background-color:rgb(246, 235, 253);
     color:rgb(48, 48, 48);
     padding: 16px;
-    font-family: andale mono,monospace;
     font-size: 25px;
     border: none;
     cursor: pointer;
@@ -85,7 +84,6 @@ nav {
     background-color: rgb(166, 75, 241);
     display:block;
     width:184px;
-    padding-left:16px;
     padding-bottom:8px;
     color:rgb(49, 18, 90);
 
