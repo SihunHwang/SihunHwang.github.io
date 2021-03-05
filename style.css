@@ -80,13 +80,13 @@ nav {
   }
 
 .logo{
-    font-size: 50px;
-    background-color: rgb(166, 75, 241);
-    display:block;
-    width:184px;
-    padding-bottom:8px;
-    color:rgb(49, 18, 90);
-
+  font-size: 50px;
+  background-color: rgb(166, 75, 241);
+  display:block;
+  width:200px;
+  text-align: center;
+  padding-bottom:8px;
+  color:rgb(49, 18, 90);
 }
 
 .footer {
@@ -98,7 +98,6 @@ nav {
 }
 
 h1 {
-  font-weight: bold;
   font-size:50px;
 }
 
