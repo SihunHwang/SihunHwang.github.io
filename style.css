@@ -5,6 +5,7 @@ body {
 .main {
   color:rgb(0, 255, 247);
   padding-left:230px;
+  padding-right: 30px;
   top:0;
 }
 a {
