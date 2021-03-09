@@ -3,7 +3,7 @@ body {
     font-family: 'Montserrat';
 }
 .main {
-  color:mediumturquoise;
+  color:rgb(0, 255, 247);
   padding-left:230px;
   top:0;
 }
@@ -19,7 +19,7 @@ nav {
 .link{
   font-size:20px;
   padding-left:30px;
-  color:rgb(245, 212, 63);
+  color:rgb(255, 234, 0);
 }
 .dropbtn {
     background-color:rgb(246, 235, 253);
@@ -104,4 +104,7 @@ h1 {
 
 ul{
   font-size:20px;
+}
+.highlight{
+  color:rgb(57, 255, 186);
 }
