@@ -109,3 +109,7 @@ ul{
 .highlight{
   color:rgb(57, 255, 186);
 }
+
+dl{font-size: 20px;}
+dt{margin-top: 20px;}
+dd{margin-top: 10px;}
