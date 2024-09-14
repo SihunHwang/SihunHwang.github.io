@@ -15,7 +15,8 @@ a {
 nav {
     background-color: rgb(246, 235, 253);
     width:200px;
-    position:fixed;
+    /*position:fixed;*/
+    float:left;
 }
 .link{
   font-size:20px;
