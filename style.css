@@ -118,6 +118,11 @@ h1 {
 ul{
   font-size:20px;
 }
+
+ul li{
+  padding: 5px;
+}
+
 .highlight{
   color:rgb(57, 255, 186);
 }
