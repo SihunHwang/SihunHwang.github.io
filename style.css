@@ -112,6 +112,10 @@ nav {
     text-align: center;
 }
 
+.hidden{
+  display: none;
+}
+
 h1 {
   font-size:50px;
   font-weight: 100;
