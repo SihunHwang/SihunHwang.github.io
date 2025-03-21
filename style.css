@@ -113,7 +113,7 @@ nav {
 }
 
 .hidden{
-  display: none;
+  display: hidden;
 }
 
 h1 {
