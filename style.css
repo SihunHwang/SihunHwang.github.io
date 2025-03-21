@@ -112,8 +112,8 @@ nav {
     text-align: center;
 }
 
-.secret{
-  display: hidden;
+.hidden{
+  display: none;
 }
 
 h1 {
