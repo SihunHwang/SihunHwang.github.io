@@ -2,9 +2,11 @@ body {
     background-color: black;
     
   	font-family: "Times New Roman", Times, 
-               	"Noto Serif KR", "Batang", 
-               	#
-    font-weight: 100;
+               	  "Noto Serif KR", "Batang",  
+                  "Noto Serif SC", "Songti SC", "SimSun", 
+                  serif;
+
+		font-weight: 100;
 }
 .main {
   color:rgb(0, 255, 247);
