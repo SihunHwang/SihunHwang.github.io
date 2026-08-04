@@ -1,6 +1,9 @@
 body {
     background-color: black;
-    font-family: 'Times New Roman';
+    
+  	font-family: "Times New Roman", Times, 
+               	"Noto Serif KR", "Batang", 
+               	#
     font-weight: 100;
 }
 .main {
